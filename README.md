@@ -2,7 +2,6 @@
 
 <h1 align="center">Guillermo Rios Silva</h1>
 <p align="center">Ing. Sistemas Computacionales | Desarrollador de software backend y frontend</p>
-<p align="center"><img src="https://avatars.githubusercontent.com/u/39348613?s=40&u=8155fa853b55bb257719eb27fb94705062d600b6&v=4"/></p> 
 
 ## Un poco de mi
 ---
