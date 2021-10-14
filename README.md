@@ -1,5 +1,3 @@
-*Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
-
 <h1 align="center">Guillermo Rios Silva</h1>
 <p align="center">Ing. Sistemas Computacionales | Desarrollador de software backend y frontend</p>
 
