@@ -1,4 +1,4 @@
-<h1 align="center">Guillermo Rios Silva</h1>
+<h1 align="center">Guillermo Rios</h1>
 <p align="center">Ing. Sistemas Computacionales | Desarrollador de software backend y frontend</p>
 
 ### Un poco de mi
